@@ -5,10 +5,6 @@
     <link>https://www.benjamin-collet.fr/categories/</link>
     <description>Recent content in Categories on Benjamin Collet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    
-	<atom:link href="https://www.benjamin-collet.fr/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-fr</language><atom:link href="https://www.benjamin-collet.fr/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -5,10 +5,6 @@
     <link>https://www.benjamin-collet.fr/</link>
     <description>Recent content on Benjamin Collet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    
-	<atom:link href="https://www.benjamin-collet.fr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-fr</language><atom:link href="https://www.benjamin-collet.fr/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
